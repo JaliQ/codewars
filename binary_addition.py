@@ -6,5 +6,3 @@ def add(x1, x2):
         return "Type Error"
 
 
-print(add(1, 2))
-print(add(1, "sus"))
