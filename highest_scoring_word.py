@@ -12,4 +12,4 @@ def high2(x):
     return words[record.index(max(record))]
 
 
-print(high2("Hello there"))
+
